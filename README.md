@@ -38,4 +38,4 @@ These modifications were implemented through iterative prompts, testing, and man
 - Don't forget to close Zotero before running the command
 
 ```bash
-python zotero_exporter.py --zotero-base-path "/Users/you/Zotero" --destination-dir "/Users/you/Downloads/ZoteroBackup"
+python3 zotero_exporter.py --zotero-base-path "/Users/you/Zotero" --destination-dir "directoryname"
