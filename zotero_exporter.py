@@ -4,7 +4,7 @@ including all attached PDF files. The files are copied into a new folder that mi
 collection hierarchy.
 
 Usage:
-    python zotero_exporter.py --zotero-base-path "/Users/you/Zotero" --destination-dir "/Users/you/Downloads/ZoteroBackup"
+    python3 zotero_exporter.py --zotero-base-path "/Users/you/Zotero" --destination-dir "directoryname"
 
 Author: Adapted by ChatGPT, based on Jaime Ruiz Serra's script, published as a GitHub Gist: https://gist.github.com/RuizSerra/6a657f6f0b2ce1e5d14a74a29fa68b8d
 """
