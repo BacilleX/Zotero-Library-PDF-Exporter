@@ -15,7 +15,7 @@ The original script retrieved files from a Zotero collection and copied them to 
 
 ## ✨ Modifications & Contributions
 
-This version was generated and extended using **OpenAI's ChatGPT with GPT4o**, with my guidance and intent. I used ChatGPT to:
+This version was generated and extended using **OpenAI's ChatGPT (GPT4o)**, with my guidance and intent. I used ChatGPT to:
 
 - Add support for nested collections (subfolders)
 - Automate folder naming to avoid overwrites
