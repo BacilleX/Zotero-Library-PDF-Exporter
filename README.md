@@ -6,7 +6,11 @@ This Python script exports all PDF files from a specified Zotero collection — 
 
 ## 📜 Based on Original Work
 
-This project is based on a script originally written by **Jaime Ruiz Serra**, found on the zotero forum : https://forums.zotero.org/discussion/118230/wild-idea-notebooklm-like-search-in-zotero and published as a GitHub Gist:  
+This project is based on a script originally written by **Jaime Ruiz Serra**, 
+found on the zotero forum:
+🔗https://forums.zotero.org/discussion/118230/wild-idea-notebooklm-like-search-in-zotero 
+
+and published as a GitHub Gist:  
 🔗 https://gist.github.com/RuizSerra/6a657f6f0b2ce1e5d14a74a29fa68b8d
 
 The original script retrieved files from a Zotero collection and copied them to a destination folder.
